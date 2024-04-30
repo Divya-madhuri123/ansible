@@ -8,5 +8,4 @@
       state: latest
     loop:
     - mysql
-    - ngnix
     - postfix
